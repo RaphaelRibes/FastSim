@@ -1,0 +1,11 @@
+/target
+# fasthelper's CLI tests write their reports into the working directory
+report.html
+report.json
+report.md
+report.tsv
+fastsuite_run/
+
+# analysis leftovers
+*.pyc
+__pycache__/
